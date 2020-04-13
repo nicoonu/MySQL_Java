@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Nicolas.Onufryjczuk/Documents/Selenium/Librerias/mysql-connector-java-5.1.48/mysql-connector-java-5.1.48/mysql-connector-java-5.1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nicolas.Onufryjczuk/Downloads/jxl-2.6.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nicolas.Onufryjczuk/Downloads/poi-ooxml-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nicolas.Onufryjczuk/Downloads/poi-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nicolas.Onufryjczuk/Downloads/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nicolas.Onufryjczuk/Downloads/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nicolas.Onufryjczuk/Downloads/commons-compress-1.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nicolas.Onufryjczuk/Downloads/poi-ooxml-schemas-4.1.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
